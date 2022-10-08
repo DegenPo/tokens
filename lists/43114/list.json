@@ -15,7 +15,7 @@
       "address": "0xe3520349F477A5F6EB06107066048508498A291b",
       "symbol": "DAI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
     },
     {
@@ -23,7 +23,7 @@
       "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
       "symbol": "WBTC",
       "decimals": 8,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xF4eB217Ba2454613b15dBdea6e5f22276410e89e/logo.svg"
     },
     {
@@ -31,7 +31,7 @@
       "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
       "symbol": "USDC",
       "decimals": 6,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.svg"
     },
     {
@@ -39,7 +39,7 @@
       "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
       "symbol": "USDT",
       "decimals": 6,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
     },
     {
@@ -47,7 +47,7 @@
       "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
       "symbol": "wNEAR",
       "decimals": 24,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/logo.svg"
     },
     {
@@ -55,7 +55,7 @@
       "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
       "symbol": "TRI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
     },
     {
@@ -63,7 +63,7 @@
       "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
       "symbol": "AURORA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg"
     },
     {
@@ -71,7 +71,7 @@
       "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
       "symbol": "xTRI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.svg"
     },
     {
@@ -79,7 +79,7 @@
       "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
       "symbol": "atLUNA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.svg"
     },
     {
@@ -87,7 +87,7 @@
       "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
       "symbol": "atUST",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.svg"
     },
     {
@@ -95,7 +95,7 @@
       "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
       "symbol": "AVAX",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.svg"
     },
     {
@@ -103,7 +103,7 @@
       "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
       "symbol": "MATIC",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.svg"
     },
     {
@@ -111,7 +111,7 @@
       "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
       "symbol": "BNB",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.svg"
     },
     {
@@ -119,7 +119,7 @@
       "address": "0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1",
       "symbol": "EMPYR",
       "decimals": 9,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.svg"
     },
     {
@@ -127,7 +127,7 @@
       "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
       "symbol": "FLX",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.svg"
     },
     {
@@ -135,7 +135,7 @@
       "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
       "symbol": "SOLACE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.svg"
     },
     {
@@ -143,7 +143,7 @@
       "address": "0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453",
       "symbol": "META",
       "decimals": 24,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453/logo.svg"
     },
     {
@@ -151,7 +151,7 @@
       "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
       "symbol": "stNEAR",
       "decimals": 24,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.svg"
     },
     {
@@ -159,7 +159,7 @@
       "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
       "symbol": "POLAR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86/logo.svg"
     },
     {
@@ -167,7 +167,7 @@
       "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
       "symbol": "SPOLAR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.svg"
     },
     {
@@ -175,7 +175,7 @@
       "address": "0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c",
       "symbol": "LUNAR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.svg"
     },
     {
@@ -183,7 +183,7 @@
       "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
       "symbol": "ORBITAL",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x3AC55eA8D2082fAbda674270cD2367dA96092889/logo.svg"
     },
     {
@@ -191,7 +191,7 @@
       "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
       "symbol": "aUSDO",
       "decimals": 8,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x293074789b247cab05357b08052468B5d7A23c5a/logo.svg"
     },
     {
@@ -199,7 +199,7 @@
       "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
       "symbol": "BBT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.svg"
     },
     {
@@ -207,7 +207,7 @@
       "address": "0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9",
       "symbol": "USD TLP",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9/logo.png"
     },
     {
@@ -215,7 +215,7 @@
       "address": "0x4e834cDCc911605227eedDDb89Fad336AB9dc00a",
       "symbol": "AAVE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4e834cDCc911605227eedDDb89Fad336AB9dc00a/logo.svg"
     },
     {
@@ -223,7 +223,7 @@
       "address": "0x2BAe00C8BC1868a5F7a216E881Bae9e662630111",
       "symbol": "ABR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2BAe00C8BC1868a5F7a216E881Bae9e662630111/logo.svg"
     },
     {
@@ -231,7 +231,7 @@
       "address": "0x5C92A4A7f59A9484AFD79DbE251AD2380E589783",
       "symbol": "abBUSD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5C92A4A7f59A9484AFD79DbE251AD2380E589783/logo.svg"
     },
     {
@@ -239,7 +239,7 @@
       "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
       "symbol": "PAD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x34F291934b88c7870B7A17835B926B264fc13a81/logo.svg"
     },
     {
@@ -247,7 +247,7 @@
       "address": "0x0f00576d07B594Bdc1caf44b6014A6A02E5AFd48",
       "symbol": "SOL",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0f00576d07B594Bdc1caf44b6014A6A02E5AFd48/logo.svg"
     },
     {
@@ -255,7 +255,7 @@
       "address": "0xdc7AcDE9ff18B4D189010a21a44cE51ec874eA7C",
       "symbol": "agEUR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdc7AcDE9ff18B4D189010a21a44cE51ec874eA7C/logo.svg"
     },
     {
@@ -263,7 +263,7 @@
       "address": "0xB7e3617aDB58dc34068522bD20Cfe1660780B750",
       "symbol": "ANGLE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB7e3617aDB58dc34068522bD20Cfe1660780B750/logo.svg"
     },
     {
@@ -271,7 +271,7 @@
       "address": "0xB4530AA877D25E51c18677753ACd80fFa54009b2",
       "symbol": "AVRIT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB4530AA877D25E51c18677753ACd80fFa54009b2/logo.svg"
     },
     {
@@ -279,7 +279,7 @@
       "address": "0x8973c9eC7B79fE880697cDBcA744892682764c37",
       "symbol": "BAKED",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8973c9eC7B79fE880697cDBcA744892682764c37/logo.svg"
     },
     {
@@ -287,7 +287,7 @@
       "address": "0xb59d0FDAf498182Ff19C4E80C00ECfC4470926e2",
       "symbol": "BAL",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb59d0FDAf498182Ff19C4E80C00ECfC4470926e2/logo.svg"
     },
     {
@@ -295,7 +295,7 @@
       "address": "0x2b9025aecc5Ce7A8E6880D3E9c6E458927eCba04",
       "symbol": "BAT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2b9025aecc5Ce7A8E6880D3E9c6E458927eCba04/logo.svg"
     },
     {
@@ -303,7 +303,7 @@
       "address": "0xe4baf0af161bf03434d1c5A53957981493c12c99",
       "symbol": "bHOME",
       "decimals": 6,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe4baf0af161bf03434d1c5A53957981493c12c99/logo.svg"
     },
     {
@@ -311,7 +311,7 @@
       "address": "0x130E6203F05805cd8C44093a53C7b50775eb4ca3",
       "symbol": "BIVE",
       "decimals": 4,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x130E6203F05805cd8C44093a53C7b50775eb4ca3/logo.svg"
     },
     {
@@ -319,7 +319,7 @@
       "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
       "symbol": "BSTN",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0/logo.svg"
     },
     {
@@ -327,7 +327,7 @@
       "address": "0xdEaCF0faa2B80aF41470003b5f6Cd113d47B4Dcd",
       "symbol": "COMP",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdEaCF0faa2B80aF41470003b5f6Cd113d47B4Dcd/logo.svg"
     },
     {
@@ -335,7 +335,7 @@
       "address": "0xAbe9818c5Fb5e751C4310BE6f0F18c8D85f9Bd7F",
       "symbol": "CREAM",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xAbe9818c5Fb5e751C4310BE6f0F18c8D85f9Bd7F/logo.svg"
     },
     {
@@ -343,7 +343,7 @@
       "address": "0x026ddA7F0F0A2E42163C9c80D2a5b6958E35fc49",
       "symbol": "CRF",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x026ddA7F0F0A2E42163C9c80D2a5b6958E35fc49/logo.svg"
     },
     {
@@ -351,7 +351,7 @@
       "address": "0xFBD1D8dcE2F97BC14239fd507183b98Ff1354B39",
       "symbol": "DLTA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFBD1D8dcE2F97BC14239fd507183b98Ff1354B39/logo.svg"
     },
     {
@@ -359,7 +359,7 @@
       "address": "0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7",
       "symbol": "DODO",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7/logo.svg"
     },
     {
@@ -367,7 +367,7 @@
       "address": "0xD5c997724e4b5756d08E6464C01AFbC5F6397236",
       "symbol": "FAME",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xD5c997724e4b5756d08E6464C01AFbC5F6397236/logo.svg"
     },
     {
@@ -375,7 +375,7 @@
       "address": "0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2",
       "symbol": "rnbwFRAX",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2/logo.png"
     },
     {
@@ -383,7 +383,7 @@
       "address": "0xc8fdD32E0bf33F0396a18209188bb8C6Fb8747d2",
       "symbol": "FXS",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc8fdD32E0bf33F0396a18209188bb8C6Fb8747d2/logo.svg"
     },
     {
@@ -391,7 +391,7 @@
       "address": "0x5ac53F985ea80c6Af769b9272F35F122201D0F56",
       "symbol": "HAK",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ac53F985ea80c6Af769b9272F35F122201D0F56/logo.svg"
     },
     {
@@ -399,7 +399,7 @@
       "address": "0x943F4Bf75D5854E92140403255a471950aB8a26f",
       "symbol": "HAPI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x943F4Bf75D5854E92140403255a471950aB8a26f/logo.svg"
     },
     {
@@ -407,7 +407,7 @@
       "address": "0x6454e4a4891C6B78a5A85304d34558DDa5F3d6D8",
       "symbol": "JUMBO",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6454e4a4891C6B78a5A85304d34558DDa5F3d6D8/logo.svg"
     },
     {
@@ -415,7 +415,7 @@
       "address": "0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E",
       "symbol": "KSW",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E/logo.svg"
     },
     {
@@ -423,7 +423,7 @@
       "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
       "symbol": "LINEAR",
       "decimals": 24,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x918dBe087040A41b786f0Da83190c293DAe24749/logo.svg"
     },
     {
@@ -431,7 +431,7 @@
       "address": "0x94190d8EF039C670c6d6B9990142e0CE2A1E3178",
       "symbol": "LINK",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x94190d8EF039C670c6d6B9990142e0CE2A1E3178/logo.svg"
     },
     {
@@ -439,7 +439,7 @@
       "address": "0x1d1f82D8B8fc72f29A8c268285347563CB6cD8B3",
       "symbol": "MKR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x1d1f82D8B8fc72f29A8c268285347563CB6cD8B3/logo.svg"
     },
     {
@@ -447,7 +447,7 @@
       "address": "0xd126B48c072f4668e944A8895bC74044D5f2E85b",
       "symbol": "MNFT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd126B48c072f4668e944A8895bC74044D5f2E85b/logo.svg"
     },
     {
@@ -455,7 +455,7 @@
       "address": "0x74974575D2f1668C63036D51ff48dbaa68E52408",
       "symbol": "MODA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x74974575D2f1668C63036D51ff48dbaa68E52408/logo.svg"
     },
     {
@@ -463,7 +463,7 @@
       "address": "0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3",
       "symbol": "NDOL",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3/logo.svg"
     },
     {
@@ -471,7 +471,7 @@
       "address": "0x6EBA841F1201fFDDe7DDC2ba995D3308f6C4aEa0",
       "symbol": "NECC",
       "decimals": 9,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6EBA841F1201fFDDe7DDC2ba995D3308f6C4aEa0/logo.svg"
     },
     {
@@ -479,7 +479,7 @@
       "address": "0x90eB16621274fb47A071001fBbF7550948874CB5",
       "symbol": "NFD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x90eB16621274fb47A071001fBbF7550948874CB5/logo.svg"
     },
     {
@@ -487,7 +487,7 @@
       "address": "0x449f661c53aE0611a24c2883a910A563A7e42489",
       "symbol": "nNECC",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x449f661c53aE0611a24c2883a910A563A7e42489/logo.svg"
     },
     {
@@ -495,7 +495,7 @@
       "address": "0x951cfdC9544b726872A8faF56792ef6704731aAe",
       "symbol": "OCT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x951cfdC9544b726872A8faF56792ef6704731aAe/logo.svg"
     },
     {
@@ -503,7 +503,7 @@
       "address": "0x07b2055fBD17b601C780aEb3abF4C2B3a30c7aae",
       "symbol": "OIN",
       "decimals": 8,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07b2055fBD17b601C780aEb3abF4C2B3a30c7aae/logo.svg"
     },
     {
@@ -511,7 +511,7 @@
       "address": "0xc2Aa4b56E325266e32582F5F5CEcE7E88f0C11D2",
       "symbol": "PACHA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc2Aa4b56E325266e32582F5F5CEcE7E88f0C11D2/logo.svg"
     },
     {
@@ -519,7 +519,7 @@
       "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
       "symbol": "PAD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781/logo.svg"
     },
     {
@@ -527,7 +527,7 @@
       "address": "0x291C8FCeAcA3342B29CC36171DEB98106f712C66",
       "symbol": "PICKLE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x291C8FCeAcA3342B29CC36171DEB98106f712C66/logo.svg"
     },
     {
@@ -535,7 +535,7 @@
       "address": "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
       "symbol": "PLY",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f/logo.svg"
     },
     {
@@ -543,7 +543,7 @@
       "address": "0x8828a5047D093f6354E3fe29fFCb2761300DC994",
       "symbol": "PULSE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8828a5047D093f6354E3fe29fFCb2761300DC994/logo.svg"
     },
     {
@@ -551,7 +551,7 @@
       "address": "0x221292443758F63563a1ed04b547278B05845FCb",
       "symbol": "REF",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x221292443758F63563a1ed04b547278B05845FCb/logo.svg"
     },
     {
@@ -559,7 +559,7 @@
       "address": "0x18921F1E257038E538bA24D49fa6495c8b1617bC",
       "symbol": "REN",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x18921F1E257038E538bA24D49fa6495c8b1617bC/logo.svg"
     },
     {
@@ -567,7 +567,7 @@
       "address": "0xd9a4C034e69e5162AC02BEc627475470a53C9a14",
       "symbol": "rMC",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd9a4C034e69e5162AC02BEc627475470a53C9a14/logo.svg"
     },
     {
@@ -575,7 +575,7 @@
       "address": "0xdC9bE1FF012D3c6dA818D136a3b2E5FDD4442F74",
       "symbol": "SNX",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdC9bE1FF012D3c6dA818D136a3b2E5FDD4442F74/logo.svg"
     },
     {
@@ -583,7 +583,7 @@
       "address": "0x7821c773a12485b12a2b5b7BC451c3eB200986b1",
       "symbol": "SUSHI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7821c773a12485b12a2b5b7BC451c3eB200986b1/logo.svg"
     },
     {
@@ -591,7 +591,7 @@
       "address": "0x5454bA0a9E3552f7828616D80a9D2D869726e6F5",
       "symbol": "TUSD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5454bA0a9E3552f7828616D80a9D2D869726e6F5/logo.svg"
     },
     {
@@ -599,7 +599,7 @@
       "address": "0x984c2505A14DA732D7271416356f535953610340",
       "symbol": "UMINT",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x984c2505A14DA732D7271416356f535953610340/logo.svg"
     },
     {
@@ -607,7 +607,7 @@
       "address": "0x17bC24b9bDD8A3E7486E3C3458a5954412F2ff60",
       "symbol": "VRA",
       "decimals": 4,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17bC24b9bDD8A3E7486E3C3458a5954412F2ff60/logo.svg"
     },
     {
@@ -615,7 +615,7 @@
       "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
       "symbol": "WANNA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7faA64Faf54750a2E3eE621166635fEAF406Ab22/logo.svg"
     },
     {
@@ -623,7 +623,7 @@
       "address": "0x99ec8F13b2AFeF5eC49073B9D20df109D25F78c0",
       "symbol": "WOO",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x99ec8F13b2AFeF5eC49073B9D20df109D25F78c0/logo.svg"
     },
     {
@@ -631,7 +631,7 @@
       "address": "0xF34d508BaC379825255cc80F66CBc89DFeFF92E4",
       "symbol": "WSTR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xF34d508BaC379825255cc80F66CBc89DFeFF92E4/logo.svg"
     },
     {
@@ -639,7 +639,7 @@
       "address": "0xA64514A8Af3Ff7366ad3d5Daa5A548EEFceF85e0",
       "symbol": "YFI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xA64514A8Af3Ff7366ad3d5Daa5A548EEFceF85e0/logo.svg"
     },
     {
@@ -647,7 +647,7 @@
       "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
       "symbol": "MECHA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa33C3B53694419824722C10D99ad7cB16Ea62754/logo.svg"
     },
     {
@@ -655,14 +655,14 @@
       "address": "0x1Bc741235EC0Ee86ad488fa49B69Bb6C823eE7b7",
       "symbol": "UNI",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x1Bc741235EC0Ee86ad488fa49B69Bb6C823eE7b7/logo.svg"
     },
     {
       "name": "Chronicle",
       "address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
       "symbol": "XNL",
-      "chainId": 1313161554,
+      "chainId": 431144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7cA1C28663b76CFDe424A9494555B94846205585/logo.svg"
     },
@@ -671,7 +671,7 @@
       "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
       "symbol": "SHITZU",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x68e401B61eA53889505cc1366710f733A60C2d41/logo.png"
     },
     {
@@ -679,7 +679,7 @@
       "address": "0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF",
       "symbol": "GBA",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF/logo.png"
     },
     {
@@ -687,7 +687,7 @@
       "address": "0x60527a2751A827ec0Adf861EfcAcbf111587d748",
       "symbol": "TRIPOLAR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x60527a2751A827ec0Adf861EfcAcbf111587d748/logo.png"
     },
     {
@@ -695,7 +695,7 @@
       "address": "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
       "symbol": "ROSE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970/logo.png"
     },
     {
@@ -703,7 +703,7 @@
       "address": "0x19cc40283B057D6608C22F1D20F17e16C245642E",
       "symbol": "RUSD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.png"
     },
     {
@@ -711,7 +711,7 @@
       "address": "0x2451dB68DeD81900C4F16ae1af597E9658689734",
       "symbol": "VWAVE",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg"
     },
     {
@@ -719,7 +719,7 @@
       "address": "0xE4B9e004389d91e4134a28F19BD833cBA1d994B6",
       "symbol": "FRAX",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4B9e004389d91e4134a28F19BD833cBA1d994B6/logo.png"
     },
     {
@@ -727,7 +727,7 @@
       "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
       "symbol": "UST",
       "decimals": 6,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03/logo.png"
     },
     {
@@ -735,7 +735,7 @@
       "address": "0x5183e1B1091804BC2602586919E6880ac1cf2896",
       "symbol": "USN",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5183e1B1091804BC2602586919E6880ac1cf2896/logo.svg"
     },
     {
@@ -743,7 +743,7 @@
       "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
       "symbol": "ETHERNAL",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg"
     },
     {
@@ -751,7 +751,7 @@
       "address": "0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac",
       "symbol": "BRRR",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac/logo.svg"
     },
     {
@@ -759,7 +759,7 @@
       "address": "0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c",
       "symbol": "nUSD",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c/logo.svg"
     },
     {
@@ -767,7 +767,7 @@
       "address": "0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445",
       "symbol": "SYN",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445/logo.png"
     },
     {
@@ -775,7 +775,7 @@
       "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
       "symbol": "USP",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg"
     },
     {
@@ -783,7 +783,7 @@
       "address": "0xb14674c7264ec7d948b904aab2c0e0f906f6e762",
       "symbol": "abBNB",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb14674c7264ec7d948b904aab2c0e0f906f6e762/logo.svg"
     },
     {
@@ -791,7 +791,7 @@
       "address": "0xafE0d6ca6AAbB43CDA024895D203120831Ba0370",
       "symbol": "BINARIS",
       "decimals": 18,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg"
     },
     {
@@ -799,7 +799,7 @@
       "address": "0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54",
       "symbol": "auUSDT",
       "decimals": 8,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54/logo.svg"
     },
     {
@@ -807,7 +807,7 @@
       "address": "0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b",
       "symbol": "auUSDC",
       "decimals": 8,
-      "chainId": 1313161554,
+      "chainId": 431144,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg"
     }  
   ]
